@@ -20,7 +20,7 @@ AI答题应用制作共享平台是一款基于 Vue 3 + Spring Boot + Redis + Ch
 
 
 
-这还不够！本项目实战最流行的 AI 应用开发，打造 `AI 答题应用平台`。用户可以基于 AI 快速创建答题应用、并基于 AI 分析总结用户的答案。
+此外！本项目实战最流行的 AI 应用开发，打造 `AI 答题应用平台`。用户可以基于 AI 快速创建答题应用、并基于 AI 分析总结用户的答案。
 
 ![](D:\Pictures\Screenshots\屏幕截图 2025-06-26 165139.png)
 
@@ -39,7 +39,6 @@ AI答题应用制作共享平台是一款基于 Vue 3 + Spring Boot + Redis + Ch
 3）第三阶段，让 AI 为平台赋能，做一个 `AI 智能答题应用平台`。用户只需设定主题，就能通过 AI 生成题目、用 AI 分析用户答案，极大降低创建答题应用的成本。
 
 
-
 ## 二、核心业务流程
 
 如下图：
@@ -55,8 +54,6 @@ AI答题应用制作共享平台是一款基于 Vue 3 + Spring Boot + Redis + Ch
 ### 小程序
 
 - 在线答题
-
-
 
 ### 平台
 
@@ -97,8 +94,6 @@ AI答题应用制作共享平台是一款基于 Vue 3 + Spring Boot + Redis + Ch
 
 - - 应用评分结果分析
 
-
-
 ## 技术选型
 
 ### 开发工具
@@ -106,7 +101,6 @@ AI答题应用制作共享平台是一款基于 Vue 3 + Spring Boot + Redis + Ch
 - 前端 IDE：JetBrains WebStorm
 - 后端 IDE：JetBrains IDEA
 - [CodeGeeX 智能编程助手](https://codegeex.cn/)
-
 
 
 ### 前端
@@ -124,13 +118,7 @@ AI答题应用制作共享平台是一款基于 Vue 3 + Spring Boot + Redis + Ch
 - ⭐️ OpenAPI 前端代码生成
 
 
-
-#### 小程序开发
-
-- React
-- Taro 跨端开发框架
-- Taro UI 组件库
-
+#### 小程序开发（待开发）
 
 
 ### 后端
